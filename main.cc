@@ -1,8 +1,14 @@
 /*this code contains main 
 for lane detection */
-int main(){}
+#include <lane_detect.hh>
 
+int main(){
 
-main file modified for rebase
+    /*object for lane detection*/
+    LD::Lane_Det Obj_Lane_Det;
 
-main file modified for squash
+    Obj_Lane_Det.read_images("\path");
+    
+
+}
+

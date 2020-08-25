@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.5)
+project(Lane_Detection)
+find_package(OpenCV 3.4 REQUIRED)
+include(lane_detect.hh)
+add_executable(lane_det lane_detect.cc main.cc)
+target_link_libraries(lane_det $(OpenCV_LIBS))
