@@ -1,3 +1,0 @@
-/home/santhosh/Documents/self development/August/Lane_Detection/CMakeFiles/rebuild_cache.dir
-/home/santhosh/Documents/self development/August/Lane_Detection/CMakeFiles/lane_det.dir
-/home/santhosh/Documents/self development/August/Lane_Detection/CMakeFiles/edit_cache.dir
